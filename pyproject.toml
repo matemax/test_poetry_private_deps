@@ -6,6 +6,7 @@ authors = ["matemax <matemaks@ya.ru>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+private-module = {git = "git@github.com:matemax/poetry_private_module.git"}
 
 [tool.poetry.dev-dependencies]
 

@@ -1,7 +1,18 @@
-package = []
+[[package]]
+category = "main"
+description = ""
+name = "private-module"
+optional = false
+python-versions = "^3.7"
+version = "0.1.0"
 
+[package.source]
+reference = "2922f35d2eb9a7c0a37e75accbc3f7f593b4f2ac"
+type = "git"
+url = "git@github.com:matemax/poetry_private_module.git"
 [metadata]
-content-hash = "669741988c507fb04697bdb0c9077fa1b2342c356df6ae6c96baa3119a96a9ea"
+content-hash = "dd6a2d8385a76ff7d199db8e43742b942c001a7d2d85ded3282462a42a1d1473"
 python-versions = "^3.7"
 
 [metadata.files]
+private-module = []
